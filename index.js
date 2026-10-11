@@ -6,8 +6,7 @@ console.log('Hello, world');
 
  const student1 = {
      address: {
-         state: "Anytown"
-         city: ""
+         state: "Lagos" 
      }
  }
  const myStudents = [
